@@ -1,0 +1,47 @@
+Assignment One 
+
+1. Update the readme file -DONE
+
+2. create a component folder within src -DONE
+
+3. create a views folder within src -DONE
+
+4. create a home component within the views folder -DONE
+
+5. create a todo list component within the component folder -DONE
+
+6. create a todo item component within the component folder -DONE
+
+7. export the todo list component within the home component -DONE
+
+8. export the todo item component within the todo list component -DONE
+
+Assignment Two
+
+1. Create a class-based component that will house information of a user such as email address, name, address, hobbies
+
+2. Find a suitable color scheme for your todo app
+Guide: 
+a. coolors.co
+b. dribble.com
+c. behance.com 
+
+3. Express a dynamic state within the home view of the todo list
+Concepts: 
+a. state
+b. binding of data
+c. props
+
+Assignment Three
+1. Create a function that within the Home view that will be used to add a new todo task within the app
+
+2. Update every single todo item object to have a status of complete and incomplete.
+
+3. Add routing to your application
+N.B: React router DOM v.6
+a. Home
+b. Analytics
+c. User profile
+
+
+

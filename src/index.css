@@ -1,0 +1,32 @@
+.check-btn {
+  color: #023020;
+  font-size: 20px;
+  font-weight: bolder;
+  border: none;
+  background-color: #3b6064;
+}
+
+.check-btn:hover {
+  color: #39ebad;
+}
+
+.cross-btn {
+  color: #f5061a;
+  font-size: 20px;
+  font-weight: bolder;
+  border: none;
+  background-color: #3b6064;
+}
+
+.cross-btn:hover {
+  color: #b1465d;
+}
+
+.todo-container {
+  border: "1px solid";
+        background-color: #3B6064;
+        width: 500px;
+        margin: auto;
+        margin-top: 10px;
+        text-align: center;
+}
